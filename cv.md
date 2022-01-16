@@ -48,3 +48,8 @@ Taganrog College of Music
 ## Courses:
 
 HTML Academy
+
+## Languages: 
+
+* English - Elementary
+* Russian - Native
